@@ -1,0 +1,27 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "Cool book app",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "rollup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniar02/E-Book.git"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Abykeev Daniar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniar02/E-Book/issues"
+  },
+  "homepage": "https://github.com/Daniar02/E-Book#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "rollup": "^3.20.2"
+  }
+}
