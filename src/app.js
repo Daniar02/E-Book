@@ -1,4 +1,4 @@
-import { MainView } from "./views/main/main.js";
+import { MainView } from "./views/main/main";
 
 class App {
     routes = [
