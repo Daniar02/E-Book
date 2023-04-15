@@ -25,4 +25,4 @@ class App {
 
 }
 
-new App();
+console.log(new App());
